@@ -1,0 +1,18 @@
+pip3 install --upgrade setuptools
+pip3 install --upgrade pip
+pip3 install scikit-build
+pip3 install cmake
+
+numpy
+---------> pip3 install numpy
+cv2
+---------> pip3 install opencv-python
+sklearn
+---------> pip3 install -U scikit-learn
+matplotlib
+---------> pip3 install matplotlib
+keras
+you can use tensorflow.keras or keras
+---------> refer this link https://www.tensorflow.org/install/pip#virtual-environment-install
+imutils
+---------> pip3 install imutils
